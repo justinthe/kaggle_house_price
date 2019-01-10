@@ -1,1 +1,1 @@
-# kaggle_house_price
+# Kaggle Competition - House Prices 
